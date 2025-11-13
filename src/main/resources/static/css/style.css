@@ -14,8 +14,8 @@ h1 {
 }
 
 
-.connected { background-color: green; color: white; padding: 10px; }
-.disconnected { background-color: red; color: white; padding: 10px; }
+.connected { background-color: rgb(66, 255, 66); color: white; padding: 10px; }
+.disconnected { background-color: rgb(26, 238, 210); color: white; padding: 10px; }
 
 /* Base styles for larger screens can be defined above */
 
